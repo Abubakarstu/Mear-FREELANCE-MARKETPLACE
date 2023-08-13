@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="774" height="144" viewBox="0 0 774 144">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        fill: #222325;
+      }
+
+      .cls-3, .cls-7 {
+        fill: #2cdd9b;
+      }
+
+      .cls-3, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        filter: url(#filter);
+      }
+
+      .cls-4 {
+        font-size: 22px;
+        font-family: "Keep Calm";
+      }
+
+      .cls-5 {
+        filter: url(#filter-2);
+      }
+
+      .cls-6 {
+        filter: url(#filter-3);
+      }
+
+      .cls-7 {
+        filter: url(#filter-4);
+      }
+
+      .cls-8 {
+        fill: #1dc8cc;
+        filter: url(#filter-5);
+      }
+    </style>
+    <filter id="filter" x="2.031" y="0.469" width="164.25" height="142.812" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="2.03125" y="0.46875" width="164.25" height="142.812" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTY0LjI1IiBoZWlnaHQ9IjE0Mi44MTIiIHZpZXdCb3g9IjAgMCAxNjQuMjUgMTQyLjgxMiI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHkxPSIxMDYuMjY2IiB4Mj0iMTY0LjI1IiB5Mj0iMzYuNTQ2IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLTAuMDM1IiBzdG9wLWNvbG9yPSIjMmNkZDliIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMS4wMzUiIHN0b3AtY29sb3I9IiMxZGM4Y2MiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjE2NC4yNSIgaGVpZ2h0PSIxNDIuODEyIi8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="99.125" y="0.438" width="164.25" height="142.875" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="99.125" y="0.4375" width="164.25" height="142.875" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTY0LjI1IiBoZWlnaHQ9IjE0Mi44NzUiIHZpZXdCb3g9IjAgMCAxNjQuMjUgMTQyLjg3NSI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHkxPSIxMDYuMjk3IiB4Mj0iMTY0LjI1IiB5Mj0iMzYuNTc3IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLTAuMDM1IiBzdG9wLWNvbG9yPSIjMmNkZDliIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMS4wMzUiIHN0b3AtY29sb3I9IiMxZGM4Y2MiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjE2NC4yNSIgaGVpZ2h0PSIxNDIuODc1Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="378.875" y="664.688" width="670.935" height="203.406" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="-20.969" y="697.469" width="218.75" height="190.219" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="-20.9688" y="697.469" width="218.75" height="190.219" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjE4Ljc1IiBoZWlnaHQ9IjE5MC4yMTkiIHZpZXdCb3g9IjAgMCAyMTguNzUgMTkwLjIxOSI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHkxPSIxNDEuNTM2IiB4Mj0iMjE4Ljc1IiB5Mj0iNDguNjgzIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLTAuMDM1IiBzdG9wLWNvbG9yPSIjMmNkZDliIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMS4wMzUiIHN0b3AtY29sb3I9IiMxZGM4Y2MiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjIxOC43NSIgaGVpZ2h0PSIxOTAuMjE5Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="115.375" y="697.438" width="218.75" height="190.281" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="115.375" y="697.438" width="218.75" height="190.281" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjE4Ljc1IiBoZWlnaHQ9IjE5MC4yODEiIHZpZXdCb3g9IjAgMCAyMTguNzUgMTkwLjI4MSI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHkxPSIxNDEuNTY3IiB4Mj0iMjE4Ljc1IiB5Mj0iNDguNzE0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLTAuMDM1IiBzdG9wLWNvbG9yPSIjMmNkZDliIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMS4wMzUiIHN0b3AtY29sb3I9IiMxZGM4Y2MiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjIxOC43NSIgaGVpZ2h0PSIxOTAuMjgxIi8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" x="-251" y="-243" width="1319" height="231"/>
+  <rect id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" class="cls-2" x="-469" y="414" width="2089" height="743" rx="12" ry="12"/>
+  <g>
+    <path class="cls-3" d="M84.148,0.465L2.027,143.29H166.27L84.148,0.465"/>
+    <text id="maer" class="cls-4" transform="translate(273.545 132.552) scale(8.891)">maer</text>
+    <path class="cls-5" d="M99.135,0.435H263.378L181.257,143.3,99.135,0.435M230.62,19.466H131.893c15.795,27.479,33.633,58.51,49.364,85.879,15.73-27.369,33.567-58.4,49.363-85.879"/>
+  </g>
+  <g>
+    <path id="Maer" class="cls-6" d="M585.174,779.654q0-15.42-4.345-26.389a51.542,51.542,0,0,0-11.579-18.074,43.641,43.641,0,0,0-17.009-10.363,64.913,64.913,0,0,0-20.631-3.253,69.906,69.906,0,0,0-24.37,4.1q-11.1,4.1-21.953,13.736a52.555,52.555,0,0,0-17.976-13.254,49.721,49.721,0,0,0-20.387-4.579,44.45,44.45,0,0,0-17.976,3.856,51.912,51.912,0,0,0-15.318,10.122l-0.041-10.363h-34.7V864.483h34.7V763.026a49.218,49.218,0,0,1,12.531-8.8,33.166,33.166,0,0,1,13.977-2.771,22.742,22.742,0,0,1,17.232,7.591q7.1,7.591,7.108,22.292v83.142h34.7V781.341a76.55,76.55,0,0,0-2.17-19.038,42.265,42.265,0,0,1,28.92-10.845,23.005,23.005,0,0,1,17.471,7.591q7.107,7.591,7.11,22.292v83.142h34.7V779.654ZM637.951,664.7H601.8V700.85h36.149V664.7Zm-0.482,60.248H602.284V864.483h35.185V724.949Zm112.543,0.241L718.442,818.7l-31.57-93.5H648.795l52.536,139.534h34.221L787.847,725.19H750.012Zm181.7,39.884a70.8,70.8,0,0,0-16.388-23.015A76.688,76.688,0,0,0,891.47,727a74.949,74.949,0,0,0-28.2-5.423,72.619,72.619,0,0,0-28.919,5.784,76.71,76.71,0,0,0-23.617,15.664,72.192,72.192,0,0,0-15.906,23.256,73.4,73.4,0,0,0,0,57.115,73.1,73.1,0,0,0,15.785,23.256,74.962,74.962,0,0,0,52.9,21.448,95.044,95.044,0,0,0,29.28-4.459q13.856-4.455,28.317-15.3l-21.93-21.931a46.048,46.048,0,0,1-15.665,8.8,57.142,57.142,0,0,1-18.8,3.253,41.433,41.433,0,0,1-14.1-2.29,40.414,40.414,0,0,1-11.447-6.265,38.1,38.1,0,0,1-8.555-9.4,47.972,47.972,0,0,1-5.422-11.447H936.536q0.48-3.852.843-7.471t0.361-6.988A71.124,71.124,0,0,0,931.716,765.074ZM825.2,781.1a42.017,42.017,0,0,1,14.459-21.328,37.054,37.054,0,0,1,23.376-8.073,37.905,37.905,0,0,1,23.738,8.073,41.778,41.778,0,0,1,14.58,21.328H825.2Zm208.092-54.584a36.28,36.28,0,0,0-17.95-4.941,31.039,31.039,0,0,0-16.991,4.82,49.939,49.939,0,0,0-13.857,13.737V725.19h-34.7V864.483h34.7V785.92a38.687,38.687,0,0,1,2.41-14.58,29.578,29.578,0,0,1,5.9-9.519,21.313,21.313,0,0,1,7.474-5.182,20.2,20.2,0,0,1,7.35-1.566,21.806,21.806,0,0,1,12.41,4.217,64.908,64.908,0,0,1,11.2,9.761l18.56-29.4A69.366,69.366,0,0,0,1033.29,726.516Z"/>
+    <path class="cls-7" d="M88.4,697.474L-20.975,887.694H197.77L88.4,697.474"/>
+    <path class="cls-8" d="M115.376,697.435H334.12L224.749,887.709,115.376,697.435m175.116,25.346H159c21.038,36.6,44.794,77.926,65.746,114.376,20.95-36.45,44.706-77.778,65.743-114.376"/>
+  </g>
+</svg>
